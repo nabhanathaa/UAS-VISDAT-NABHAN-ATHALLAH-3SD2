@@ -4,7 +4,7 @@
 UAS Visualisasi Data dan Informasi 2026 · Nabhan Athallah (3SD2 / 222313272) · Politeknik Statistika STIS
 
 🔗 **Aplikasi (publik, tanpa login):** https://uas-visdat-nabhan-athallah-3sd2-222313272.streamlit.app/
-📦 **Repositori:** https://github.com/nabhanathaa/UAS-VISDAT-NABHAN_ATHALLAH_3SD2
+📦 **Repositori:** https://github.com/nabhanathaa/UAS-VISDAT-NABHAN-ATHALLAH-3SD2
 
 ![Halaman Ringkasan](assets/ss_ringkasan.png)
 
