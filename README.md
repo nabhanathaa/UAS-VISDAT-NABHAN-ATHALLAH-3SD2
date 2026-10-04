@@ -1,10 +1,10 @@
-# Terang, Kaya, Sejahtera? 🛰️
+# Terang, Kaya, Sejahtera? 
 **Dashboard interaktif cahaya malam, ekonomi, dan kesejahteraan 514 kabupaten/kota Indonesia (2024)**
 
 UAS Visualisasi Data dan Informasi 2026 · Nabhan Athallah (3SD2 / 222313272) · Politeknik Statistika STIS
 
-🔗 **Aplikasi (publik, tanpa login):** https://uas-visdat-nabhan-athallah-3sd2-222313272.streamlit.app/
-📦 **Repositori:** https://github.com/nabhanathaa/UAS-VISDAT-NABHAN-ATHALLAH-3SD2
+ **Aplikasi (publik, tanpa login):** https://uas-visdat-nabhan-athallah-3sd2-222313272.streamlit.app/
+ **Repositori:** https://github.com/nabhanathaa/UAS-VISDAT-NABHAN-ATHALLAH-3SD2
 
 ![Halaman Ringkasan](assets/ss_ringkasan.png)
 
