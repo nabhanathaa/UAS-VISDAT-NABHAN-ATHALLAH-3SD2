@@ -16,7 +16,7 @@ import streamlit as st
 
 from dashboard.core import PULAU, ROOT, logo_b64, muat
 
-st.set_page_config(page_title="Terang, Kaya, Sejahtera? · Dashboard UAS Visdat 2026",
+st.set_page_config(page_title="Terang, Kaya, Sejahtera? · UAS Visdat 2026 · Nabhan Athallah",
                    page_icon=str(ROOT / "assets" / "logo_stis_128.png"), layout="wide", initial_sidebar_state="collapsed")
 
 from dashboard import style, t1_ringkasan, t2_peta, t3_regresi, t4_multivariat, t5_hierarki, t6_aliran, t7_metodologi  # noqa: E402

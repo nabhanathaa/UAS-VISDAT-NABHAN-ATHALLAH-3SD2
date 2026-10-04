@@ -3,7 +3,8 @@
 
 UAS Visualisasi Data dan Informasi 2026 · Nabhan Athallah (3SD2 / 222313272) · Politeknik Statistika STIS
 
-🔗 **Aplikasi:** `https://<nama-app>.streamlit.app` *(isi setelah deploy)*
+🔗 **Aplikasi (publik, tanpa login):** https://uas-visdat-nabhan-athallah-3sd2-222313272.streamlit.app/
+📦 **Repositori:** https://github.com/nabhanathaa/UAS-VISDAT-NABHAN_ATHALLAH_3SD2
 
 ![Halaman Ringkasan](assets/ss_ringkasan.png)
 
@@ -72,6 +73,7 @@ Variabel turunan utama: `cahaya_pk` = Σ radiance ÷ penduduk × 1.000; `pct_men
 │   └── t1_ringkasan.py … t7_metodologi.py   # satu berkas per tab
 ├── static/                        # GeoJSON tersederhanakan (disajikan statis)
 ├── assets/                        # logo STIS, tangkapan layar
+├── scripts/gee_viirs_zonal_kabkota.js   # Google Earth Engine: statistik zonal VIIRS 514 kab/kota
 ├── notebooks/
 │   ├── 01_persiapan_dan_integrasi_data.ipynb
 │   └── 02_analisis_statistik.ipynb

@@ -39,7 +39,7 @@ def render(c):
                        f"{'…' if len(u) > 66 else ''}</a></td><td>{t}</td></tr>" for v, j, t, u in SUMBER)
         st.html(f"<table class='tbl'><tr><th>Variabel</th><th>Judul & URL</th><th>Tahun</th></tr>{rows}</table>")
         st.download_button(":material/download: Unduh data terolah (Excel · sheet KabKota 514 + Provinsi 38 + Keterangan)",
-                           excel_unduhan(), "terang_kaya_sejahtera_data_2024.xlsx",
+                           excel_unduhan(), "Data_UAS_Visdat_2026_3SD2_222313272_Nabhan_Athallah.xlsx",
                            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", type="primary", width="stretch")
         st.html("<div class='src'>Kode pengolahan (Jupyter Notebook) & data: lihat repositori GitHub proyek (README). "
                 "Kemiskinan: hanya P0 yang dianalisis; P1, P2, garis kemiskinan disertakan di unduhan sebagai data pendukung.</div>")
