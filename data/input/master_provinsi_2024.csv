@@ -1,0 +1,39 @@
+kode_prov,provinsi,pulau,ikk,pdrb_kapita_ribu,penduduk_ribu,kepadatan,ipm,p0
+11,Aceh,Sumatera,96.61,43782.0,5554.8,98,74.03,14.23
+12,Sumatera Utara,Sumatera,97.45,73575.0,15588.5,215,74.02,7.99
+13,Sumatera Barat,Sumatera,93.06,57083.0,5836.2,139,74.49,5.97
+14,Riau,Sumatera,96.1,165350.0,6728.1,75,74.79,6.67
+15,Jambi,Sumatera,95.32,86775.0,3724.3,76,73.43,7.1
+16,Sumatera Selatan,Sumatera,90.62,75132.0,8837.3,102,72.3,10.97
+17,Bengkulu,Sumatera,94.2,49233.0,2112.2,105,73.39,13.56
+18,Lampung,Sumatera,89.12,51387.0,9419.6,281,71.81,10.69
+19,Kepulauan Bangka Belitung,Sumatera,105.37,70193.0,1531.5,92,73.33,4.55
+21,Kepulauan Riau,Sumatera,111.94,161424.0,2183.3,264,77.97,5.37
+31,DKI Jakarta,Jawa,114.79,344383.0,10684.9,16165,83.08,4.3
+32,Jawa Barat,Jawa,105.3,56082.0,50345.2,1359,74.43,7.46
+33,Jawa Tengah,Jawa,102.08,47970.0,37892.3,1104,73.88,10.47
+34,DI Yogyakarta,Jawa,104.88,51486.0,3759.5,1186,81.55,10.83
+35,Jawa Timur,Jawa,96.29,75770.0,41814.5,870,74.09,9.79
+36,Banten,Jawa,94.18,70276.0,12431.4,1329,74.48,5.84
+51,Bali,Bali-Nusa Tenggara,107.46,67318.0,4433.3,793,77.76,4.0
+52,Nusa Tenggara Barat,Bali-Nusa Tenggara,104.09,32282.0,5646.0,287,70.93,12.91
+53,Nusa Tenggara Timur,Bali-Nusa Tenggara,92.42,24303.0,5656.0,122,67.39,19.48
+61,Kalimantan Barat,Kalimantan,107.34,52703.0,5695.5,39,70.13,6.32
+62,Kalimantan Tengah,Kalimantan,106.56,79320.0,2809.7,18,72.73,5.17
+63,Kalimantan Selatan,Kalimantan,100.7,67122.0,4273.4,115,73.03,4.11
+64,Kalimantan Timur,Kalimantan,118.3,212117.0,4045.9,32,78.83,5.78
+65,Kalimantan Utara,Kalimantan,107.52,198677.0,739.8,11,73.02,6.32
+71,Sulawesi Utara,Sulawesi,100.77,69352.0,2701.8,186,75.03,7.25
+72,Sulawesi Tengah,Sulawesi,91.82,120750.0,3121.8,51,71.56,11.77
+73,Sulawesi Selatan,Sulawesi,95.91,73573.0,9463.4,209,74.05,8.06
+74,Sulawesi Tenggara,Sulawesi,94.71,67840.0,2793.1,77,73.48,11.21
+75,Gorontalo,Sulawesi,96.51,44437.0,1227.8,102,71.23,14.57
+76,Sulawesi Barat,Sulawesi,91.63,42718.0,1503.2,91,68.2,11.21
+81,Maluku,Maluku,106.52,32199.0,1945.6,42,71.57,16.05
+82,Maluku Utara,Maluku,114.09,71517.0,1355.6,41,71.03,6.32
+91,Papua Barat,Papua,124.71,131636.0,578.7,10,67.02,21.66
+92,Papua Barat Daya,Papua,122.21,59064.0,627.1,16,68.63,18.13
+94,Papua,Papua,134.96,81009.0,1060.6,13,73.0,17.26
+95,Papua Selatan,Papua,142.98,61622.0,542.1,5,67.9,17.44
+96,Papua Tengah,Papua,209.28,118774.0,1472.9,24,59.75,29.76
+97,Papua Pegunungan,Papua,249.12,18105.0,1467.0,29,53.42,32.97

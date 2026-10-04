@@ -1,0 +1,9 @@
+# Dependensi tambahan untuk menjalankan ulang notebooks/ (tidak diperlukan oleh aplikasi)
+-r requirements.txt
+geopandas==1.2.0
+shapely==2.1.2
+statsmodels==0.15.0
+scikit-learn==1.9.1
+libpysal==4.15.0
+esda==2.10.0
+jupyter

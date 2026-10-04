@@ -1,0 +1,22 @@
+[theme]
+base = "light"
+primaryColor = "#1d5fae"
+backgroundColor = "#f3f6fb"
+secondaryBackgroundColor = "#eaf0f8"
+textColor = "#13233a"
+font = "Plus Jakarta Sans:https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap, sans-serif"
+baseFontSize = 14
+baseRadius = "0.6rem"
+borderColor = "#d9e2ee"
+showWidgetBorder = true
+
+[server]
+headless = true
+runOnSave = false
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

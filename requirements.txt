@@ -1,0 +1,8 @@
+# Dependensi aplikasi Streamlit (versi yang sudah diuji) — pilih Python 3.12 saat deploy
+streamlit==1.65.0
+plotly==7.1.0
+pandas==3.0.5
+numpy==2.5.3
+pyarrow==25.0.1
+mapclassify==2.11.0
+openpyxl==3.1.5

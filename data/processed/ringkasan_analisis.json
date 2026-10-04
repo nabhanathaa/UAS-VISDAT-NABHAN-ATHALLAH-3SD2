@@ -1,0 +1,194 @@
+{
+  "n": 514,
+  "ols": {
+    "beta": 0.5819,
+    "se": 0.0353,
+    "p": 5.0715537304526806e-61,
+    "r2": 0.3901,
+    "const": 9.6859,
+    "bp_p": 0.0639
+  },
+  "ols_robust": {
+    "Intercept": 9.653,
+    "ln_cahaya_pk": 0.6082,
+    "ln_kepadatan": -0.0203,
+    "ikk": 0.0008,
+    "r2": 0.3944
+  },
+  "moran": {
+    "z_residual": {
+      "I": 0.4666,
+      "p_sim": 0.001,
+      "z": 12.87
+    },
+    "ln_pdrb_pk": {
+      "I": 0.505,
+      "p_sim": 0.001,
+      "z": 14.64
+    },
+    "ln_cahaya_pk": {
+      "I": 0.5457,
+      "p_sim": 0.001,
+      "z": 15.29
+    },
+    "indeks_sejahtera": {
+      "I": 0.6419,
+      "p_sim": 0.001,
+      "z": 17.95
+    }
+  },
+  "status": {
+    "Selaras": 462,
+    "Lebih kaya dari cahayanya": 32,
+    "Lebih terang dari ekonominya": 20
+  },
+  "kuadran": {
+    "Gelap – Kurang sejahtera": 179,
+    "Terang – Sejahtera": 179,
+    "Terang – Kurang sejahtera": 78,
+    "Gelap – Sejahtera": 78
+  },
+  "lisa": {
+    "Tidak signifikan": 409,
+    "LL (terang-dari-ekonomi mengelompok)": 57,
+    "HH (kaya-dari-cahaya mengelompok)": 42,
+    "LH": 4,
+    "HL": 2
+  },
+  "pca": {
+    "varians_pct": [
+      44.28,
+      15.88,
+      12.75,
+      8.81,
+      7.72,
+      4.71,
+      3.14,
+      1.85,
+      0.86
+    ],
+    "eigen": [
+      3.993,
+      1.432,
+      1.15,
+      0.794,
+      0.696,
+      0.425,
+      0.283,
+      0.167,
+      0.078
+    ],
+    "k_pc": 3,
+    "loadings": {
+      "Cahaya per kapita (ln)": [
+        0.3669,
+        -0.3364
+      ],
+      "% luas menyala": [
+        0.3567,
+        0.4363
+      ],
+      "Pertumbuhan cahaya 2020–24": [
+        -0.2375,
+        -0.1638
+      ],
+      "PDRB per kapita (ln)": [
+        0.3096,
+        -0.4378
+      ],
+      "Laju PDRB 2024": [
+        0.0743,
+        -0.4315
+      ],
+      "IPM": [
+        0.4579,
+        0.0195
+      ],
+      "Penduduk miskin (P0)": [
+        -0.3969,
+        0.1372
+      ],
+      "Indeks Kemahalan Konstruksi": [
+        -0.2978,
+        0.1241
+      ],
+      "Kepadatan (ln)": [
+        0.3528,
+        0.5072
+      ]
+    }
+  },
+  "kmeans": {
+    "k": 4,
+    "tabel": [
+      {
+        "k": 2,
+        "silhouette": 0.374,
+        "davies_bouldin": 1.061
+      },
+      {
+        "k": 3,
+        "silhouette": 0.422,
+        "davies_bouldin": 0.813
+      },
+      {
+        "k": 4,
+        "silhouette": 0.446,
+        "davies_bouldin": 0.687
+      },
+      {
+        "k": 5,
+        "silhouette": 0.368,
+        "davies_bouldin": 0.791
+      },
+      {
+        "k": 6,
+        "silhouette": 0.378,
+        "davies_bouldin": 0.772
+      }
+    ],
+    "nama": {
+      "0": "Pedalaman tertinggal: gelap & mahal",
+      "2": "Kantong pertumbuhan pesat (SDA/IKN)",
+      "1": "Perkotaan padat & terang",
+      "3": "Perdesaan berkembang"
+    }
+  },
+  "gravitasi": {
+    "Intercept": {
+      "coef": -3.2505,
+      "p": 0.0029514491062002253
+    },
+    "np.log(pend_o)": {
+      "coef": 0.5499,
+      "p": 1.6345457053262862e-38
+    },
+    "np.log(pend_d)": {
+      "coef": 0.6478,
+      "p": 2.736657388732379e-25
+    },
+    "np.log(jarak_km)": {
+      "coef": -1.209,
+      "p": 6.11818051891968e-52
+    },
+    "np.log(cahaya_pk20_o)": {
+      "coef": 0.3805,
+      "p": 0.002147952522860046
+    },
+    "np.log(cahaya_pk20_d)": {
+      "coef": -0.1139,
+      "p": 0.40966302445604874
+    }
+  },
+  "var_label": {
+    "ln_cahaya_pk": "Cahaya per kapita (ln)",
+    "pct_menyala": "% luas menyala",
+    "pertumbuhan_cahaya": "Pertumbuhan cahaya 2020–24",
+    "ln_pdrb_pk": "PDRB per kapita (ln)",
+    "laju_pdrb_pct": "Laju PDRB 2024",
+    "ipm": "IPM",
+    "p0": "Penduduk miskin (P0)",
+    "ikk": "Indeks Kemahalan Konstruksi",
+    "ln_kepadatan": "Kepadatan (ln)"
+  }
+}
